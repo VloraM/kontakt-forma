@@ -20,7 +20,7 @@ This is a simple web projcet built with HTML, Node.js(Express). It provides a co
 1. Clone repository:
        
 ```bash
-git clone[your-git-url]
+git clone https://github.com/VloraM/kontakt-forma.git
 
 2. Install dependencies:
    
