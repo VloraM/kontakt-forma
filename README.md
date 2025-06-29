@@ -1,5 +1,5 @@
-# Contact Form Projcet
-This is a simple web projcet built with HTML, Node.js(Express). It provides a contact form where users can center their name, email, message. The date is then processed and logged on the server, and the users is redirected to a thank-you page.
+# Contact Form Project
+This is a simple web project built with HTML, Node.js(Express). It provides a contact form where users can center their name, email, message. The date is then processed and logged on the server, and the users is redirected to a thank-you page.
 
 ## Technologies Used
 
@@ -10,7 +10,7 @@ This is a simple web projcet built with HTML, Node.js(Express). It provides a co
 
 ## Features
 
-- Contact form with,name email, and message fields
+- Contact form with name, email, and message fields
 - POST request handling with Express.js
 - Logs submitted data to the terminal
 - Redirects users to than-you page after form submission
@@ -21,45 +21,25 @@ This is a simple web projcet built with HTML, Node.js(Express). It provides a co
        
 ```bash
 git clone https://github.com/VloraM/kontakt-forma.git
+```
 
 2. Install dependencies:
    
-      bash
-      npm install
-      
+```bash
+npm install
+```  
 
-3.Start the Server
+3. Start the Server
    
-   bash
-   node server.js
+```bash
+node server.js
+```
 
-4.Open your browser and go to:
-     
-  bash
-  http://localhost:3000/contact
+4. Open your browser and go to:
 
-         
+http://localhost:3000/contact.html
 
 ## Project Structure
-
-kontakt-forma
-
-|kontakt-forma/
-
-├── public/
-
-│   └── style.css
-
-├── contact.html
-
-├── thank-you.html
-
-├── server.js
-
-├── package.json
-
-└── README.md
-
 
 > ℹ️ This project was inspired by a real hotel contact form interface and is developed **purely for educational purposes**, taking loose design influence from Hotel Emerald's site.
 
